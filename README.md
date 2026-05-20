@@ -25,7 +25,7 @@ Regional breakdown with share %
 Product performance with avg price
 Sales rep leaderboard with rank
 
- #Quarterly rollup
+# Quarterly rollup
 Excel Workbook (6 sheets)
 Raw Data — styled table, auto-filter, freeze pane, color-scale on Revenue
 Monthly Analysis — table + bar chart + line chart
